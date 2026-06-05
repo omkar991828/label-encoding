@@ -19,3 +19,4 @@ encoded=le.fit_transform(car)
 print('original:',car)
 print('encoded',encoded)
 
+
